@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Ejemplo de una imagen](https://www.touchtapplay.com/wp-content/uploads/2017/06/LdoE-1-696x374.png)
